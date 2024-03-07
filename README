@@ -1,0 +1,20 @@
+This repository provides resources and tools to apply machine learning techniques to understand electrocatalyst performance. It is designed to enable researchers, with limited machine learning experience, to leverage these powerful methods in their electrocatalysis research.
+
+Explore the contents:
+
+data: This directory contains sample datasets commonly used in electrocatalysis research.
+notebooks: This directory contains Jupyter notebooks demonstrating various machine learning techniques applicable to electrocatalysis data.
+
+Notebooks:
+
+Introduction to Machine Learning for Electrocatalysis: This notebook provides a foundational understanding of machine learning concepts relevant to electrocatalysis research.
+XGBoost for Electrocatalyst Classification: This notebook guides you through building an XGBoost model to predict catalysts using a sample dataset.
+Random Forest for Electrocatalyst Classification: This notebook demonstrates using Random Forest to predict catalysts using a sample dataset.
+
+Additional Resources:
+
+The documentation directory contains links to helpful resources and tutorials for further learning about machine learning and its applications in electrocatalysis research.
+
+Contributing:
+
+We welcome contributions to this repository! If you have improvements, suggestions, or additional notebooks you'd like to share, please feel free to submit a pull request.
