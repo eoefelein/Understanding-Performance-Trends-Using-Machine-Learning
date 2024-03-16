@@ -2,18 +2,16 @@ This repository provides resources and tools to apply machine learning technique
 
 Explore the contents:
 
-data: This directory contains sample datasets commonly used in electrocatalysis research.
-notebooks: This directory contains Jupyter notebooks demonstrating various machine learning techniques applicable to electrocatalysis data.
+data: This directory contains a sample dataset relevant to electrocatalysis research.
+notebook: This directory contains Jupyter notebooks demonstrating various machine learning techniques applicable to electrocatalysis data.
 
 Data:
+
+clean_electrocatalyst.csv: This dataset has been cleaned and is used within the XGBoost for Electrocatalyst Classification Notebook. It contains data on Metal Selenide-Based Materials for Electrocatalysis.
 
 Notebook:
 
 XGBoost for Electrocatalyst Classification: This notebook guides you through building an XGBoost model to predict catalysts using a sample dataset.
-
-Additional Resources:
-
-The documentation directory contains links to helpful resources and tutorials for further learning about machine learning and its applications in electrocatalysis research.
 
 Contributing:
 
