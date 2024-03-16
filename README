@@ -5,11 +5,11 @@ Explore the contents:
 data: This directory contains sample datasets commonly used in electrocatalysis research.
 notebooks: This directory contains Jupyter notebooks demonstrating various machine learning techniques applicable to electrocatalysis data.
 
-Notebooks:
+Data:
 
-Introduction to Machine Learning for Electrocatalysis: This notebook provides a foundational understanding of machine learning concepts relevant to electrocatalysis research.
+Notebook:
+
 XGBoost for Electrocatalyst Classification: This notebook guides you through building an XGBoost model to predict catalysts using a sample dataset.
-Random Forest for Electrocatalyst Classification: This notebook demonstrates using Random Forest to predict catalysts using a sample dataset.
 
 Additional Resources:
 
